@@ -17,6 +17,8 @@ public class Basics {
     @Test
     public void basics() {
 
+        // post place
+
         RestAssured.baseURI = "https://rahulshettyacademy.com";
         String response = given().log().all().queryParam("key", "qaclick123").header("Content-Type", "application/json")
                 .body(Payload.addPlace()).when().post("maps/api/place/add/json")

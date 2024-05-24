@@ -23,3 +23,10 @@ This repository contains the coding exercises in the Udemy course "Rest API Test
 - Integrating the Multiple API's with common Json response values
 - Building End to End Automation using GET, POST, and PUT Http Methods
 - Importance of TestNG Assertions in validating the responses
+
+### Section 6
+- Understanding Structure of Complex Nested Json and its array notations
+- Retrieving the Json Array Size and its elements using JsonPath
+- Iterating over every element of Json Array and accessing elements in it
+- Retrieving Json nodes on Condition logic using JsonPath
+- Real Time example to solve business logic through Json response
