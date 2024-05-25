@@ -30,3 +30,7 @@ This repository contains the coding exercises in the Udemy course "Rest API Test
 - Iterating over every element of Json Array and accessing elements in it
 - Retrieving Json nodes on Condition logic using JsonPath
 - Real Time example to solve business logic through Json response
+
+### Section 7
+- Handling Dynamic Json Payloads with Parameterization
+- Understanding TestNg Data provider for parameterization
