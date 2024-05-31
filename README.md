@@ -34,3 +34,7 @@ This repository contains the coding exercises in the Udemy course "Rest API Test
 ### Section 7
 - Handling Dynamic Json Payloads with Parameterization
 - Understanding TestNg Data provider for parameterization
+
+### Section 9
+- Postman testing for the OAuth related API's and generating response
+- Rest Assured automation script for OAuth end to end API's test
