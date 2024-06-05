@@ -8,6 +8,7 @@ This repository contains the coding exercises in the Udemy course "Rest API Test
 - REST Assured
 - TestNG
 - Hamcrest
+- Jackson Databind
 
 ## Sections
 
@@ -38,3 +39,6 @@ This repository contains the coding exercises in the Udemy course "Rest API Test
 ### Section 9
 - Postman testing for the OAuth related API's and generating response
 - Rest Assured automation script for OAuth end to end API's test
+
+### Section 10
+- Serialization and Deserialization using POJO classes with RESTAssured
