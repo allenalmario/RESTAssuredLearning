@@ -42,3 +42,9 @@ This repository contains the coding exercises in the Udemy course "Rest API Test
 
 ### Section 10
 - Serialization and Deserialization using POJO classes with RESTAssured
+
+### Section 11
+- Serialization of input Payload using Google Maps API
+
+### Section 12
+- Understand Request and Response Spec Builders in Rest Assured
